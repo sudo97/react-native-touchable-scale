@@ -16,3 +16,7 @@ Props:
     - Custom styles to set when the Touchable is active
     activeIndicies: array
     - Children for which activeStyle should be applied
+
+# Installation
+
+`npm install --save rn-touchable-scale`

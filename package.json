@@ -1,5 +1,5 @@
 {
-  "name": "react-native-touchable-scale",
+  "name": "rn-touchable-scale",
   "version": "1.0.0",
   "description": "TouchableScale component for react-native",
   "main": "index.js",
@@ -25,5 +25,6 @@
   "dependencies": {
     "react": "^16.8.0",
     "react-native": "^0.58.3"
-  }
+  },
+  "devDependencies": {}
 }
