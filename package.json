@@ -1,0 +1,29 @@
+{
+  "name": "react-native-touchable-scale",
+  "version": "1.0.0",
+  "description": "TouchableScale component for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudo97/react-native-touchable-scale.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "Touchable",
+    "TouchableScale"
+  ],
+  "author": "sudo97",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudo97/react-native-touchable-scale/issues"
+  },
+  "homepage": "https://github.com/sudo97/react-native-touchable-scale#readme",
+  "dependencies": {
+    "react": "^16.8.0",
+    "react-native": "^0.58.3"
+  }
+}
