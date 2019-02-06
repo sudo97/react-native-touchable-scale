@@ -22,9 +22,6 @@
     "url": "https://github.com/sudo97/react-native-touchable-scale/issues"
   },
   "homepage": "https://github.com/sudo97/react-native-touchable-scale#readme",
-  "dependencies": {
-    "react": "^16.8.0",
-    "react-native": "^0.58.3"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
