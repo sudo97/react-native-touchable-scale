@@ -1,9 +1,11 @@
 # React Native Touchable Scale
 
 Provides the TouchableScale component for react native.
-Props:
-    activeScale: number,
-    - The scale to set for the children
+
+# Props:
+| Name        | prop-type | description |
+| ----------- | --------- | ----------- |
+| activeScale | number    | The scale to set for the children|
     onPress: func,
     - Same as TouchableWithoutFeedback
     onPressIn: func,
