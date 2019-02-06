@@ -1,4 +1,4 @@
-# react-native-touchable-scale
+# React Native Touchable Scale
 
 Provides the TouchableScale component for react native.
 Props:
